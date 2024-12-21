@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tibex88&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tibex88&theme=gotham&hide_border=true)<br/>
+
+
 
