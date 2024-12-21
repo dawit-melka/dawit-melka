@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I’m **Dawit Melka**, a passionate software engineer with interests in **Machine Learning**, **Knowledge Graphs**, and **Backend Development**.
+I'm **Dawit Melka**, a passionate software engineer with interests in **Machine Learning**, **Knowledge Graphs**, and **Backend Development**.
 ---
 
 ### 🔧 Technologies & Tools:
