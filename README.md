@@ -14,14 +14,11 @@ I'm **Dawit Melka**, a passionate software engineer with interests in **Machine 
 ### 📊 My GitHub Stats:
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img height="200" src="https://github-readme-stats.vercel.app/api?username=dawit-melka&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Dawit's GitHub Stats"/></td>
-      <td><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dawit-melka&theme=vue-dark&hide_border=true" alt="Dawit's Streak Stats"/></td>
-      <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-melka&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/></td>
-    </tr>
-  </table>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dawit-melka&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Dawit's GitHub Stats"/>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dawit-melka&theme=vue-dark&hide_border=true" alt="Dawit's Streak Stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-melka&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
+
 
 ---
 
