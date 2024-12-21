@@ -1,21 +1,14 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I’m **Dawit Melka**, a passionate software engineer with interests in **Machine Learning**, **Knowledge Graphs**, and **Backend Development**. 🚀 I enjoy turning complex ideas into scalable systems and continuously learning in the ever-evolving tech landscape.
+I’m **Dawit Melka**, a passionate software engineer with interests in **Machine Learning**, **Knowledge Graphs**, and **Backend Development**.
+---
 
 ### 🔧 Technologies & Tools:
-- **Programming Languages**: Python, JavaScript, Shell
+- **Programming Languages**: Python, Java, JavaScript, Shell
 - **Tools & Platforms**: Docker, Neo4j, Flask, Django
 - **Interests**: Large Language Models (LLMs), Graph Data Science (GDS), Real-Time Communication (RTC)
 
-### 🌱 What I’m currently working on:
-- Building **AI assistants** that integrate LLMs with Knowledge Graphs.
-- Optimizing **large-scale query pipelines** for bioinformatics applications.
-- Exploring **few-shot learning techniques** for better query understanding.
-
-### 📫 Let’s connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/dawit-melka)
-- 📧 **Email**: [dawitmelka@example.com](mailto:davebadeg@gmail.com)
-- 🌐 [Personal Website](#) *(Coming Soon!)*
+---
 
 ### 📊 My GitHub Stats:
 
@@ -28,4 +21,17 @@ I’m **Dawit Melka**, a passionate software engineer with interests in **Machin
     </tr>
   </table>
 </div>
+
+---
+
+### 🌱 What I’m currently working on:
+- Building **AI assistants** that integrate LLMs with Knowledge Graphs.
+- Optimizing **large-scale query pipelines** for bioinformatics applications.
+- Exploring **few-shot learning techniques** for better query understanding.
+
+---
+
+### 📫 Let’s connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/dawit-melka)
+- 📧 **Email**: [dawitmelka@example.com](mailto:dawitmelka@example.com)
 
