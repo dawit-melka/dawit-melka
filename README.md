@@ -31,5 +31,5 @@ I'm **Dawit Melka**, a passionate software engineer with interests in **Machine 
 -->
 ### 📫 Let’s connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/dawit-melka)
-- 📧 **Email**: [davebadeg@gmail.com](mailto:davebadeg@gmail.com)
+- 📧 [Email](mailto:davebadeg@gmail.com)
 
